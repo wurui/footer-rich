@@ -1,0 +1,13 @@
+{
+  "RULE_VERSION":"20180724",
+  "name": "footer-rich",
+  "apiDependencies": [
+  {
+    "name": "ui-entry"
+  },
+  {
+    "name": "ui-richtext"
+  }
+]
+}
+
