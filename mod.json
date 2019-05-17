@@ -1,13 +1,10 @@
 {
-  "RULE_VERSION":"20180724",
-  "name": "footer-rich",
-  "apiDependencies": [
-  {
-    "name": "ui-entry"
-  },
-  {
-    "name": "ui-richtext"
-  }
-]
+	"RULE_VERSION":"20190428",
+	"name": "footer-rich",
+	"apiDependencies": [
+		{"name":"the-site"}
+	]
 }
+
+
 

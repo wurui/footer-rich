@@ -30,6 +30,26 @@
             </i>
         </ui-entry>
         <ui-richtext>&lt;p style="text-align:center;"&gt;   &lt;span style="font-size:12px;color:#999999;"&gt;Copyrigh&amp;nbsp;&amp;copy; 2018 Cenchin.com 保留所有权利&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;p style="text-align:center;"&gt; &lt;span&gt;&lt;span style="font-size:12px;color:#333333;"&gt;浙ICP备&lt;a href="http://cenchin.com"&gt;1234567890号&lt;/a&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</ui-richtext>
+        <the-site>
+            <logo>https://i.oxm1.cc/uploads/git/wurui/img/29qpaauruTjsn2qqxyR52ztA1yg4-1000.png</logo>
+            <title>小树懒开放平台</title>
+            <href>index</href>
+            <channels>
+                <i>
+                    <title>首页</title>
+                    <href>http://www.openxsl.com</href>
+                    <icon></icon>
+                </i>
+                <i>
+                    <title>关于我们</title>
+                    <href>http://www.cenchin.com</href>
+                    <icon></icon>
+                </i>
+            </channels>
+            <copyright>2017-2019 杭州声罄科技有限公司 </copyright>
+            <icp>浙ICP备15031769号-1</icp>
+        </the-site>
+
 
     </data>
 </root>
